@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 # Создаем экземпляр бота
-bot = telebot.TeleBot('6541829338:AAHftopC_mKOU3xFCHnlxAN24I789hoXobY')
+bot = telebot.TeleBot('')
 good = 0
 user_info = None
 q = []
